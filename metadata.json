@@ -1,0 +1,6 @@
+{
+  "name": "Vani — Hindi, English & Hinglish AI Voice Assistant",
+  "description": "A human-like conversational AI voice partner fluent in natural Hindi, Indian English, and Hinglish with real-time two-way voice streaming.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
